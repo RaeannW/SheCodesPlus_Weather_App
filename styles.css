@@ -1,0 +1,46 @@
+.topImg{
+    width: 4em;
+    height: auto;
+    margin: 0;
+    top: 0;
+}
+#searchBar{
+    padding: 10px 30px 10px 30px;
+}
+#searchBtn{
+    padding: 10px 30px 10px 30px;
+}
+.heading{
+    margin: 3em 0 0 0;
+}
+#date{
+    font-size: 13px;
+}
+.weatherimg{    
+    width: 9em;
+}
+#temp{
+    font-size: 60px;
+}
+hr{
+    margin: 2em 0em 1em 0em;
+}
+.card{
+    border: none;
+}
+.days{
+    font-size: 12px;
+}
+.weeklyweatherimg{
+    height: 80px;
+    width: auto;
+}
+#fahrenheit{
+    font-size: 20px;
+}
+#celsius{
+    font-size: 20px;
+}
+#divider{
+    font-size: 20px;
+}
